@@ -1,0 +1,4 @@
+packages/
+bin/
+/Smart-Contract/bin/
+Smart-Contract/obj/
